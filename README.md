@@ -1,7 +1,7 @@
 # Lung_disease_detector_project
 
 ## Introduction
-### This repository contains a Convolutional Neural Network (CNN) model that can predict lung disease from chest X-ray images. The model is built using Python and the TensorFlow deep learning framework. With this model, you can classify chest X-ray images into different lung disease categories, such as pneumonia, tuberculosis, or healthy lungs.
+### This repository contains a Convolutional Neural Network (CNN) model that can predict lung disease from chest X-ray images. The model is built using Python and the TensorFlow deep learning framework. With this model, you can classify chest X-ray images into different lung disease categories, such as Viral pneumonia, Covid or healthy lungs.
 
 ## Dataset
 ### To train and test the CNN model, we use a publicly available chest X-ray dataset that consists of images labeled with lung disease categories. The dataset is preprocessed and split into training, validation, and testing sets. Due to the large size of the dataset, we couldn't include it in this repository. However, you can easily obtain it from the following source
