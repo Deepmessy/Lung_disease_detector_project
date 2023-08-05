@@ -5,6 +5,7 @@
 
 ## Dataset
 ### To train and test the CNN model, we use a publicly available chest X-ray dataset that consists of images labeled with lung disease categories. The dataset is preprocessed and split into training, validation, and testing sets. Due to the large size of the dataset, we couldn't include it in this repository. However, you can easily obtain it from the following source
+<li><a href="https://www.kaggle.com/datasets/pranavraikokte/covid19-image-dataset">X-ray Image Data</a> </li>
 ### 
 
 ## Disclaimer
